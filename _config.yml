@@ -9,7 +9,7 @@ name: Romel Punsal
 description: Tech enthusiast and sometimes okay at IT
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/bikeme.png
+avatar: ({{ site.baseurl }}/images/bikeme.png)
 
 #
 # Flags below are optional
